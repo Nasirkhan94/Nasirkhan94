@@ -2,7 +2,7 @@
 ### I am a wireless communication researcher
 I am a Ph.D. student at Koç University in Istanbul and a member of the Wireless Networks Laboratory  ([WNL](https://wnl.ku.edu.tr/)). I specialize in machine learning and explainable AI for wireless communications. I received my B.S. in Electrical and Electronics Engineering from the Lahore University of Management Sciences, Pakistan, in 2017. My research focuses on wireless communications and machine learning. In my leisure time, I enjoy traveling, swimming, and cooking.
 
-Skills: Python / MATLAB / Tensorflow 
+Skills: Python / MATLAB / Tensorflow /Pytorch
 
 - 📫 How to reach me: nkhan20@ku.edu.tr 
 
